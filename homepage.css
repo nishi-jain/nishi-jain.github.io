@@ -313,24 +313,6 @@ h1{
 	margin-top: 40px;
 	text-align: center;
 }
-/*Sentence*/
-.sentence{
-     color: #222;
-     font-size: 30px;
-     text-align: left;
-}
-/*Wrapper*/
-.wrapper{
-    background-color: #f5f5f5;
-    font-family: 'Raleway', sans-serif;
-    margin: 100px auto;
-    padding: 40px 40px;
-    position: relative;
-    width: 70%;
-}
-
-
-
 
 
 /*Vertical Flip*/
